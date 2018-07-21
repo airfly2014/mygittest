@@ -7,6 +7,7 @@ jslfjalfj
 
 1干的
 2来了
+<<<<<<< HEAD
 buy something
 
 buy again
@@ -18,3 +19,10 @@ from gittest1
 from gittest1
 
 from gittest1
+
+
+new branch done	
+
+what happen
+buy nothing from 1
+buy something from 2
