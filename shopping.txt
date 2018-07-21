@@ -7,4 +7,5 @@ jslfjalfj
 
 1干的
 2来了
-buy nothing
+buy nothing from 1
+buy something from 2
